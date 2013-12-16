@@ -1,0 +1,38 @@
+Reading lexicon from fuckboggle.txt...
+35 distinct words read from fuckboggle.txt.
+a: 0
+aah: 1
+aahed: 1
+aahing: 0
+aahs: 1
+aal: 1
+aalii: 1
+aaliis: 0
+aals: 1
+aardvark: 0
+aardvarks: 0
+aardwolf: 0
+aardwolves: 0
+aargh: 1
+aarrgh: 0
+aarrghh: 0
+aas: 1
+aasvogel: 0
+aasvogels: 0
+ab: 1
+aba: 1
+abaca: 1
+abacas: 0
+abaci: 1
+aback: 1
+abacterial: 0
+abacus: 0
+abacuses: 0
+abaft: 1
+abaka: 1
+abakas: 0
+abalone: 0
+abalones: 0
+abamp: 1
+abampere: 0
+GoobleGobbleblahblahblah0
